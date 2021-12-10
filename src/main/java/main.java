@@ -4,5 +4,6 @@ public class main {
         System.out.println("okok");
 
         System.out.println("Warning?");
+        System.out.println("ok");
     }
 }
